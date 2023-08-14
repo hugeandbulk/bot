@@ -53,5 +53,43 @@ A computer bot follows precise rules and instructions to accomplish its tasks. O
 
 Different types of bots use various technologies to achieve their goals. For example, chatbots use deep learning technologies such as text-to-speech, automatic speech recognition, and natural language processing to simulate human conversation and dialogue. On the other hand, web crawlers send HTTP requests to websites to read the underlying content. An HTTP request is a communication protocol that browsers use to send and receive data.
 
+What are the types of malicious bots?
+
+Also known as malware bots, malicious bots perform activities that create security risks for organizations.  For example, they might disrupt operations, create unfair disadvantages, send out unwanted emails, or attempt unauthorized access to sensitive data. We give some common types of malicious bots below.
+
+Download bots
+
+Download bots are bots programmed to download software or applications automatically. This creates a false impression of popularity and helps the application rise in ranking charts. By using download bots, an application publisher expects to gain more visibility and attract real human subscribers.
+
+Spambots
+
+Spambots scrape the internet for email addresses, turn the gathered data into email lists, and send spam messages in large batches. Alternatively, a spambot can create false accounts and post messages on forums and social media. These bots can entice a human user to click on a compromised website or download unwanted files.
+
+Ticketing bots
+
+Ticketing bots scan websites to buy tickets at the lowest price only to later resell the tickets at a higher value to make a profit. The process is naturally automated and leaves the impression that a human is purchasing the ticket. While ticketing bots are regulated in some countries, the practice is considered unethical.
+
+DDoS bots
+
+Distributed denial of service (DDoS) bots are malicious programs used to perform a distributed denial of service (DDoS) attack. A DDoS attack is a malicious attempt to affect the availability of a targeted system, such as a website or application, to legitimate human users. Typically, DDoS bots generate large volumes of packets or requests that may overwhelm the target system.
+
+Fraud bots
+
+Fraud bots, or click fraud bots, use artificial intelligence to mimic human behavior to perform ad frauds. For example, a fraud bot automatically clicks on paid ads with plans to increase the ad revenue for the publisher. These fake clicks increase marketing expenditure without leading to real customers.
+
+File-sharing bots
+
+A file-sharing bot records frequent search terms on applications, messengers, or search engines. It then provides recommendations with unwanted links to malicious files or websites.
+
+Social media bots
+
+Social media bots, or social bots, generate false social media activity such as fake accounts, follows, likes, or comments. By imitating human activity on social media platforms, they spam content, boost popularity, or spread misinformation.
+
+Botnet
+
+A botnet is a group of malicious bots that works together in a coordinated manner. The group performs tasks that require a high volume of computing power and memory. In order to save costs, bot creators may attempt to install bots on network-connected devices that belong to others. In doing this, they can control the bots remotely and plan to utilize computing power without paying for it.
+
+
+
 https://aws.amazon.com/what-is/bot/
 --
