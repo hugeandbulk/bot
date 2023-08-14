@@ -53,3 +53,5 @@ A computer bot follows precise rules and instructions to accomplish its tasks. O
 
 Different types of bots use various technologies to achieve their goals. For example, chatbots use deep learning technologies such as text-to-speech, automatic speech recognition, and natural language processing to simulate human conversation and dialogue. On the other hand, web crawlers send HTTP requests to websites to read the underlying content. An HTTP request is a communication protocol that browsers use to send and receive data.
 
+https://aws.amazon.com/what-is/bot/
+--
