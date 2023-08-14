@@ -89,7 +89,26 @@ Botnet
 
 A botnet is a group of malicious bots that works together in a coordinated manner. The group performs tasks that require a high volume of computing power and memory. In order to save costs, bot creators may attempt to install bots on network-connected devices that belong to others. In doing this, they can control the bots remotely and plan to utilize computing power without paying for it.
 
+How do malicious bots impact authorized users?
 
+Malicious bots require targeted approaches to detect because they are frequently developed to evade humans and computers. Consider these approaches to protect your IT systems against malicious bots: 
+
+- Instill security awareness among employees. Train employees to avoid clicking on unknown or suspicious links in emails.
+- Use anti-malware programs and run regular scans to detect and isolate bots in computer systems.
+- Install a firewall to prevent bots from accessing your computer.
+- Strengthen bot protection and advanced threat detection software to prevent bots. For example, organizations use Amazon GuardDuty to block malicious bots and other malware.
+- Use CAPTCHA to stop distributed denial of service (DDoS) and spam bots from disrupting a web server. CAPTCHA is a challenge-response test that allows web servers to tell humans apart from bots.
+- Enforce strong endpoint security policies and regulate sharing of portable storage drives.
+- Use strong and non-repetitive passwords for different user accounts.
+
+What is bot management?
+
+Internet traffic to your applications can come from humans or bots. Blocking all bot traffic is not the right security approach, as several bots are useful. For example, allowing web crawlers is essential to ensure webpages appear in search engine results. Bot management is a strategic approach that helps companies separate good bot traffic from malicious bot activity. While malicious bots are harmful to computer systems, good bots help to enhance productivity, cost efficiency, and customer experience.
+
+Bot manager software
+
+Bot management involves using bot manager software to classify bots and enforce policies according to bot behavior. Bot managers use different methods to detect if a bot is important or not. The simplest bot detection method uses static analysis to categorize bots based on web activities. Some bot managers use CAPTCHAs to separate malicious bot traffic from human users. Meanwhile, advanced bot management solutions involve machine learning technologies that study the behavioral patterns of computer activities.
 
 https://aws.amazon.com/what-is/bot/
---
+
+--eof--
